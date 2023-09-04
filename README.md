@@ -1,4 +1,4 @@
-#resume
+# RESUME
 # Purushotham Reddy 
 
 **Address:** 4718 Belwood Green, Baltimore, Maryland 21227  
